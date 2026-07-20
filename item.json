@@ -1,5 +1,5 @@
 {
-  "id": "https://raw.githubusercontent.com/iqb-vocabs/p15/master/item.json",
+  "id": "https://raw.githubusercontent.com/iqb-vocabs/p115/master/item.json",
   "label": [{
     "lang": "de",
     "value": "IQB Mathematik Primar 2004 - Item"
@@ -21,7 +21,7 @@
               "value": "Itemformat"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v27/mp/",
             "allowMultipleValues": false,
@@ -36,7 +36,7 @@
               "value": "Anforderungsbereich"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v09/n1/",
             "allowMultipleValues": false,
@@ -51,7 +51,7 @@
               "value": "Inhaltsbezogener Bildungsstandard primär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v09/k1/",
             "allowMultipleValues": false
@@ -65,7 +65,7 @@
               "value": "Inhaltsbezogener Bildungsstandard sekundär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v09/k1/",
             "allowMultipleValues": true
@@ -79,7 +79,7 @@
               "value": "Allgemeine Kompetenzen primär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v09/a1/",
             "allowMultipleValues": false
@@ -93,7 +93,7 @@
               "value": "Algemeine Kompetenzen sekundär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v09/a1/",
             "allowMultipleValues": true
@@ -107,7 +107,7 @@
               "value": "Itemzeit"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0,
@@ -122,7 +122,7 @@
               "value": "Geschätzte Schwierigkeit"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v26/ea/",
             "allowMultipleValues": false

@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  site-url: https://iqb-vocabs.github.io/p15/
+  site-url: https://iqb-vocabs.github.io/p115/
   favicon: favicon.ico
   page-navigation: true
-  repo-url: https://github.com/iqb-vocabs/p15/
+  repo-url: https://github.com/iqb-vocabs/p115/
   navbar:
     logo: iqb-logo-black.png
     search: true
@@ -14,7 +14,7 @@ website:
           text: "Metadatenprofile für Testaufgaben: Mathematik Primar 2004"
     right:
       - icon: github
-        href: https://github.com/iqb-vocabs/p15
+        href: https://github.com/iqb-vocabs/p115
         aria-label: Source Code
 
 lang: de
