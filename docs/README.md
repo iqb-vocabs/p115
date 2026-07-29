@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Mathematik Primar 2004 - Aufgabe"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p115/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p115/master/unit.json)
+ID of profile: [https://w3id.org/iqb/p115/unit/](https://w3id.org/iqb/p115/unit/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
@@ -22,7 +22,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p115/master/unit.js
 
 ## Profil "IQB Mathematik Primar 2004 - Item"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p115/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p115/master/item.json)
+ID of profile: [https://w3id.org/iqb/p115/item/](https://w3id.org/iqb/p115/item/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
