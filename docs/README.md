@@ -1,6 +1,6 @@
 # Metadatenprofile für Testaufgaben: Mathematik Primar 2004
 
-ID of profile-store: `amap`
+ID of profile-store: `[amap](amap)`
 
 Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Mathematik Primar 2004 - Aufgabe"
 
-ID of profile: `https://w3id.org/iqb/p115/unit/`
+ID of profile: [https://w3id.org/iqb/p115/unit/](https://w3id.org/iqb/p115/unit/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
@@ -22,7 +22,7 @@ ID of profile: `https://w3id.org/iqb/p115/unit/`
 
 ## Profil "IQB Mathematik Primar 2004 - Item"
 
-ID of profile: `https://w3id.org/iqb/p115/item/`
+ID of profile: [https://w3id.org/iqb/p115/item/](https://w3id.org/iqb/p115/item/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
